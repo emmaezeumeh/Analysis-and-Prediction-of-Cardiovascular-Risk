@@ -2,7 +2,6 @@
 
 Prediction of Cardiovascular Risk using Supervised and Unsupervised Machine Learning Models.
 
-![Breast-cancer-awareness-different-women](https://user-images.githubusercontent.com/115907457/218345813-e51582e9-b7f0-4e72-a264-e12a4cb096a9.jpg)
 
 ## Task
 
