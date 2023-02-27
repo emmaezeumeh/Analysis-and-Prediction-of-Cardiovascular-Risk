@@ -106,5 +106,5 @@ Seasborn
 
 Matplotlib
 
-![cvdai](https://user-images.githubusercontent.com/115907457/221461590-f679433c-216c-466c-9ce7-ce536fb8bafb.png)
+![cvdai](https://user-images.githubusercontent.com/115907457/221463127-844837d5-ff3b-4966-a1da-09e47e0aa8de.png)
 
