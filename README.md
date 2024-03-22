@@ -6,7 +6,7 @@ Prediction of Cardiovascular Risk using Supervised and Unsupervised Machine Lear
 
 ## Task
 
-The goal is to predict cardiovascular disease risk using the features/predictors in the dataset. The predictors in the dataset for this project are discrete and the outcome is binary, determining if the patient is at risk of being diagnosed with a cardiovaascular disease or not.
+The goal is to predict cardiovascular disease risk using the features/predictors in the dataset. The predictors in the dataset for this project are discrete and the outcome is binary, determining if the patient is at risk of being diagnosed with a cardiovascular disease or not.
 
 This is a classification problem and so for this task, several different machine learning classification methods, was chosen and used to fit functions to predict the class of new data points. To improve the accuracies of all my model, I tuned the hyperparameters and evaluated the best parameters for each model. 
 
